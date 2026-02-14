@@ -1,0 +1,5 @@
+{
+  "name": "Case Opener Simulator",
+  "description": "A high-fidelity CS:GO style case opening simulator with inventory management, economy system, and persistent save slots.",
+  "requestFramePermissions": []
+}
